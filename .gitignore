@@ -1,0 +1,14 @@
+# Compiled binary — don't push the executable, only source code
+passive
+
+# Result files — these are generated at runtime
+result.txt
+result2.txt
+result3.txt
+
+# Go test cache
+*.test
+
+# OS files
+.DS_Store
+Thumbs.db
