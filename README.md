@@ -1,6 +1,6 @@
-# passive
+# Passive
 
-A command-line tool for passive reconnaissance. You give it a name, an IP address, or a username — it goes and finds what it can from public sources.
+This is a command-line tool for passive reconnaissance. You give it a name, an IP address, or a username — it goes and finds what it can from public sources.
 
 I built this as part of my cybersecurity coursework at Zone01 Kisumu. The idea behind passive recon is simple: before you ever touch a target, there's already a surprising amount of information about it sitting in public directories, databases, and social platforms. This tool pulls some of that together.
 
